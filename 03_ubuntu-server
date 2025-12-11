@@ -1,1 +1,27 @@
+# Ubuntu Server – Technical Evaluation
+
+## Overview
+Ubuntu Server is a stable, widely used server distribution based on Debian, optimized for cloud, enterprise, and virtualization.
+
+## Installation Experience
+- Text-based installer straightforward to follow.
+- LTS version provides long-term support and security updates.
+
+## Strengths
+- Very strong community support.
+- Excellent hardware and cloud compatibility.
+- Easy to deploy for beginners and professionals.
+
+## Limitations
+- Heavier footprint than minimal server distributions.
+- Some services preinstalled that may not be needed.
+
+## Best Use Cases
+✓ Web servers  
+✓ Virtual machines  
+✓ Cloud deployments (AWS, OCI, Azure)  
+✓ Enterprise workloads
+
+## Screenshots
+*(See assignment report for actual screenshots)*
 
