@@ -1,1 +1,27 @@
+# Fedora Workstation – Technical Evaluation
+
+## Overview
+Fedora is a Red Hat–sponsored distribution with a strong focus on innovation, stability, and modern Linux technologies.
+
+## Installation Experience
+- Very polished installation interface.
+- GNOME desktop smooth and responsive.
+
+## Strengths
+- Cutting-edge software.
+- Excellent developer ecosystem.
+- Strong SELinux integration for security.
+
+## Limitations
+- Faster release cycle requires more updates.
+- Not ideal for long-term enterprise systems.
+
+## Best Use Cases
+✓ Developers  
+✓ Linux learners  
+✓ GNOME desktop users  
+✓ Testing modern features
+
+## Screenshots
+*(See assignment report for actual screenshots)*
 
