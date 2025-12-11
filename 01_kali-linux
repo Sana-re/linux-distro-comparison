@@ -1,1 +1,26 @@
+# Kali Linux – Technical Evaluation
 
+## Overview
+Kali Linux is a Debian-based distribution focused on cybersecurity, penetration testing, and digital forensics.
+
+## Installation Experience
+- Smooth installation with guided partitioning.
+- Default tools preinstalled, reducing setup time.
+
+## Strengths
+- Includes industry-standard security tools.
+- Stable Debian base.
+- Strong community documentation.
+
+## Limitations
+- Heavy for older hardware.
+- Not recommended for general-purpose desktop use.
+
+## Best Use Cases
+✓ Ethical hacking  
+✓ Security audits  
+✓ Vulnerability assessments  
+✓ CTF practice
+
+## Screenshots
+*(See assignment report for actual screenshots)*
